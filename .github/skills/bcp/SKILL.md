@@ -88,6 +88,8 @@ Record the context and its sources in the summary's "Context and Sources", so la
 
 Also settle the **depth**: Comprehensive (default), or Quick plan (core items only) when the user asks for a short or first cut plan. Say in one or two sentences what you will produce and where.
 
+**Encourage the user to be proactive.** At the start of every session, tell them in one or two sentences that the plan is refined and completed sooner if they share as much, and as specific, information as they can, without waiting to be asked. Examples are documents, names for the crisis roles, recovery expectations, and corrections to `[TBC]` items. Fold anything they volunteer into the working draft at once, at any point in the session.
+
 ### Step 2: Analyse the Scenario
 Write a scenario statement: what happens, how it starts, what it affects, the worst credible case, the likely duration and the warning signs. Use an erm register row's Causes, Effects and controls when available. Decide which impact dimensions matter: people, operations, systems and data, facilities, suppliers, customers, finance, legal and regulatory, reputation.
 
