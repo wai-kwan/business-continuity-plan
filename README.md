@@ -143,6 +143,19 @@ npx skills add wai-kwan/key-risk-indicator
 npx skills add wai-kwan/risk-discovery
 ```
 
+## Getting the best results
+**Be proactive: share as much, and as specific, information as you can at every session, rather than waiting for the skill to ask.** The skill asks only 1 to 3 questions at a time, so a plan built from answers alone takes many rounds. Anything you volunteer is folded into the plan straight away, and the plan is refined and completed far sooner.
+
+Useful things to share up front, or at any point:
+- the objective of the plan and the assets you most need to protect;
+- background on your organisation, your sites, key systems, suppliers and customers;
+- the people who will take on the crisis roles, and their alternates;
+- existing documents, such as an old BCP, emergency procedures, insurance summaries, supplier contracts or organisation charts;
+- recovery expectations, such as how long each key activity can stop and how quickly it must be back;
+- corrections to anything marked `[TBC]` in the latest version.
+
+Specific beats general. "Customer service must be answering calls within 1 hour, run from head office by the Customer Service Manager with the Team Leader as backup" improves the plan more than "customer service is important".
+
 ## Quick start
 Ask in plain language, for example:
 
